@@ -2,8 +2,8 @@
 <div id="readme-top" align="center">
   <a href="https://github.com/mBlomsterberg/">
     <picture>
-      <source srcset="logo_inv.svg" media="(prefers-color-scheme: dark)">
-      <img src="logo.svg" alt="Logo" width="200" height="200">
+      <source srcset="logo_inv.png" media="(prefers-color-scheme: dark)">
+      <img src="logo.png" width="200" height="200">
     </picture>
   </a>
 
