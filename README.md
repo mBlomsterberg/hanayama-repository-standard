@@ -1,6 +1,6 @@
 <br />
 <div id="readme-top" align="center">
-  <a href="https://github.com/awazevr/">
+  <a href="https://github.com/mBlomsterberg/">
     <picture>
       <source srcset="logo_inv.svg" media="(prefers-color-scheme: dark)">
       <img src="logo.svg" alt="Logo" width="200" height="200">
@@ -10,7 +10,7 @@
   <h3 align="center">hanayama-repository-standard</h3>
 
   <p align="center">
-    Template for structure, convention and guidelines for Awaze repositories in Github.
+    Template for structure, convention and guidelines for Hanayama repositories in Github.
     <br />
     <br />
     <a href="https://github.com/mBlosterberg/hanayama-repository-standard">Github Workflows</a>
