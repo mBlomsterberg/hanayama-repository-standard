@@ -30,7 +30,7 @@
 <br>
 
 # About
-This project description provides an overview for the reader to understand, what function it has within Hanayama repositories. This repository creates a standard structure for future development and collaboration between engineering teams. 
+This project description provides an overview for the reader to understand, and what function it has within Hanayama repositories. This repository creates a standard structure for  development and collaboration between engineering teams. 
 
 
 # Contact 
@@ -40,11 +40,11 @@ This project description provides an overview for the reader to understand, what
 
 
 # Contribution guidelines
-Should your repository be open to an external or onboarding new members you can create guidelines to communicate how people should contribute to your project. [Example](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
+Should your repository be open to an external or onboarding new members you can create guidelines to communicate how people should contribute to your project. [Example](https://github.com/github/docs/blob/main/CONTRIBUTING.md).
 
 # Code of Conduct
 
-This project has adopted the Awaze Vacation Rentals Ltd Code of Conduct. For more information see the Code of Conduct FAQ or contact XXXX with any additional questions or comments.
+This project has adopted the Hanayama Co. Code of Conduct. For more information see the Code of Conduct FAQ or contact XXXX with any additional questions or comments.
 
 # License
 
