@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/mBlomsterberg/hanayama-repository-standard/compare/v1.1.0...v1.1.1) (2024-04-26)
+
+
+### Bug Fixes
+
+* fixed an issue with broken link in ISSUE_TEMPLATE/improve-template.yml ([5b170e4](https://github.com/mBlomsterberg/hanayama-repository-standard/commit/5b170e4c0b9a410f0549685d9ec3667bb39e1b2d))
+
 # [1.1.0](https://github.com/mBlomsterberg/hanayama-repository-standard/compare/v1.0.0...v1.1.0) (2024-04-26)
 
 
