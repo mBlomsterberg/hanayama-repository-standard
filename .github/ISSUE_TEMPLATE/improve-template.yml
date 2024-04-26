@@ -9,8 +9,8 @@ body:
           <div align="center">
             <a href="https://github.com/mBlomsterberg/">
               <picture>
-                <source srcset="logo_inv.png" media="(prefers-color-scheme: dark)">
-                <img src="logo.png" width="200" height="200">
+                <source srcset="https://github.com/mBlomsterberg/hanayama-repository-standard/blob/main/logo_inv.png" media="(prefers-color-scheme: dark)">
+                <img src="https://github.com/mBlomsterberg/hanayama-repository-standard/blob/main/logo.png" width="200" height="200">
               </picture>
             </a>
             <h3 align="center">Appriciate contributions</h3>
