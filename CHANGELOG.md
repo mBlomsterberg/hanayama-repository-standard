@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mBlomsterberg/hanayama-repository-standard/compare/v1.0.0...v1.1.0) (2024-04-26)
+
+
+### Features
+
+* updated with issues configuration, code ownership, CoC, contribution, dependabot, behaviorbot etc. ([970967e](https://github.com/mBlomsterberg/hanayama-repository-standard/commit/970967e0eb55faff8011446a349ee0f82d5fbb9d))
+
 # 1.0.0 (2023-10-25)
 
 
