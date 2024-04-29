@@ -40,7 +40,7 @@ This project description provides an overview for the reader to understand, and 
 
 # Repository overview
 | `File`                        | `description` |
-| -------------                 | ------------- |
+| ------------------            | ------------- |
 | .github/ISSUE_TEMPLATE        | Configuring issue templates for your repository |
 | .github/pull_request_template.yml | Configuring default PR template for your repository    |
 | .github/dependabot.yml        | Customize how Dependabot maintains your repositories  |
