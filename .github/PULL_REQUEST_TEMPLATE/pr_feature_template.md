@@ -1,3 +1,5 @@
+<!-- currently only works through query string on url, for example:  https://github.com/octo-org/octo-repo/compare/master...pull-request-test?template=pr_feature_template.md -->
+
 # Description :rocket:
 Please include a summary of the changes and the related feature. Please also include relevant motivation and context. List any dependencies that are required for this change.
 

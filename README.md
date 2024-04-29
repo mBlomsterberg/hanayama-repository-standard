@@ -42,7 +42,7 @@ This project description provides an overview for the reader to understand, and 
 | `File`                        | `description` |
 | -------------                 | ------------- |
 | .github/ISSUE_TEMPLATE        | Configuring issue templates for your repository |
-| .github/PULL_REQUEST_TEMPLATE | Configuring PR templates for your repository    |
+| .github/pull_request_template.yml | Configuring default PR template for your repository    |
 | .github/dependabot.yml        | Customize how Dependabot maintains your repositories  |
 | CODE_OF_CONDUCT.md            | Defines standards for how to engage in a community    | 
 | CONTRIBUTING.md               | Contribution guidelines to your project's repository  |

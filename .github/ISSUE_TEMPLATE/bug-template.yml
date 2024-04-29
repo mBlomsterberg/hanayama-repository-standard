@@ -1,4 +1,4 @@
-name: Bug found in template
+name: Bug in template
 description: Create a bug report to help us improve the template.
 labels:
   - content
