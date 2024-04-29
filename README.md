@@ -13,11 +13,11 @@
     Template for structure, convention and guidelines for Hanayama repositories in Github.
     <br />
     <br />
-    <a href="https://github.com/mBlosterberg/hanayama-repository-standard">Github Workflows</a>
+    <a href="https://github.com/mBlomsterberg/hanayama-repository-standard">Github Workflows</a>
     ·
-    <a href="https://github.com/mBlosterberg/hanayama-repository-standard">Repository Configuration</a>
+    <a href="https://github.com/mBlomsterberg/hanayama-repository-standard">Repository Configuration</a>
     ·
-    <a href="https://github.com/mBlosterberg/hanayama-repository-standard">Versioning</a>
+    <a href="https://github.com/mBlomsterberg/hanayama-repository-standard">Versioning</a>
   </p>
   <br />
 </div>
@@ -38,7 +38,7 @@ This project description provides an overview for the reader to understand, and 
 
 **Linkedin** [Mikkel Blomsterberg](https://www.linkedin.com/in/mikkel-blomsterberg-663b785a/)
 
-# Repositoy overview
+# Repository overview
 | `File`                        | `description` |
 | -------------                 | ------------- |
 | .github/ISSUE_TEMPLATE        | Configuring issue templates for your repository |
