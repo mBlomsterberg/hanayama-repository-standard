@@ -30,7 +30,7 @@
 <br>
 
 # About
-This project description provides an overview for the reader to understand, and what function it has within Hanayama repositories. This repository creates a standard structure for  development and collaboration between engineering teams. 
+This project description provides an overview for the reader to understand, and what function it has within Hanayama repositories. This repository creates a standard structure for development and collaboration between engineering teams. 
 
 
 # Contact 
@@ -38,13 +38,26 @@ This project description provides an overview for the reader to understand, and 
 
 **Linkedin** [Mikkel Blomsterberg](https://www.linkedin.com/in/mikkel-blomsterberg-663b785a/)
 
+# Repositoy overview
+| `File`                        | `description` |
+| -------------                 | ------------- |
+| .github/ISSUE_TEMPLATE        | Configuring issue templates for your repository |
+| .github/PULL_REQUEST_TEMPLATE | Configuring PR templates for your repository    |
+| .github/dependabot.yml        | Customize how Dependabot maintains your repositories  |
+| CODE_OF_CONDUCT.md            | Defines standards for how to engage in a community    | 
+| CONTRIBUTING.md               | Contribution guidelines to your project's repository  |
+| SECURITY.md                   | To give people instructions on how to report security vulnerabilities | 
+| SUPPORT.md                    | Let people know about ways to get help with your project  |
+| CODEOWNERS                    | Define individuals or teams that are responsible for code in a repository |
+| LICENSE                       | A software license tells others what they can and can't do with your source code  |
+
 
 # Contribution guidelines
 Should your repository be open to an external or onboarding new members you can create guidelines to communicate how people should contribute to your project. [Example](https://github.com/github/docs/blob/main/CONTRIBUTING.md).
 
 # Code of Conduct
 
-This project has adopted the Hanayama Co. Code of Conduct. For more information see the Code of Conduct FAQ or contact XXXX with any additional questions or comments.
+This project has adopted the Hanayama Co. Code of Conduct. For more information see the Code of Conduct FAQ or contact [mBlomsterberg](https://github.com/mBlomsterberg) with any additional questions or comments.
 
 # License
 
